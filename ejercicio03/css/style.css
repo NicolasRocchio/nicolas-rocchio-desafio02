@@ -1,0 +1,45 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+.logo {
+    width: 600px;
+}
+h2, h3 {
+    color: #BB5397;
+}
+p {
+    color: #506CA8;
+    line-height: 25px;    
+}
+h2 {
+    text-align: center;
+    font-size: 65px;
+    font-weight: lighter;
+    letter-spacing: 15px;
+}
+h3 {
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+img {
+    width: 500px;
+}
+.d-pop{
+    float: right;
+    margin-left: 10px;
+}
+.d-carribean{
+    float: left;
+    margin-right: 10px;
+}
+.d-animalk{
+    float: right;
+    margin-left: 10px;
+}
+.mickey-minnie{
+    width: 100%;
+    margin-top: 10px;
+}
